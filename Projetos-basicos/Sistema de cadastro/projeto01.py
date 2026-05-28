@@ -24,4 +24,4 @@ while tentativa < 3:
         print(emoji.emojize('ERRO: :cross_mark: Senha incorreta'))
         tentativa += 1
 else: 
-    print('Máximo de tentativas atingidas, tente novamente mais tarde ⚠️')
+    print('Máximo de tentativas atingidas')
